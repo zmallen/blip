@@ -17,7 +17,7 @@ setup(
     url="https://github.com/zmallen/blip",
     author="techy",
     packages=find_packages(include=['blip']),
-    author_email="@teachemtechy",
+    author_email="zma4580@gmail.com",
     license="MIT",
     classifiers=[
         "Programming Language :: Python :: 3",
