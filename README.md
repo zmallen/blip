@@ -4,8 +4,13 @@ B(itf)lip Strings for Red Teaming/Bug Bounty Hunting
 
 ![Help CLI](commandline.png "Blip")
 
+## Install
+
 `pip install blip`
 
+OR
+
+`git clone https://github.com/zmallen/blip && cd blip && python setup.py install`
 
 ## Summary of tool/bitflipping
 
